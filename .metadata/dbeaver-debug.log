@@ -1,0 +1,195 @@
+2026-03-28 15:24:46.078 - DBeaver 26.0.1.202603221810 is starting
+2026-03-28 15:24:46.080 - OS: Windows 10 10.0 (amd64)
+2026-03-28 15:24:46.081 - Java version: 21.0.8 by Eclipse Adoptium (64bit)
+2026-03-28 15:24:46.082 - Install path: 'C:\Program Files\DBeaver'
+2026-03-28 15:24:46.083 - Instance path: 'file:/C:/Users/FATTANI COMPUTERS/OneDrive/Documents/DBMS-SQL/'
+2026-03-28 15:24:46.089 - Memory available 64Mb/1024Mb
+2026-03-28 15:24:46.100 - Initialize desktop platform...
+2026-03-28 15:24:47.129 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.400.v20251107-0507]
+> Start Core Resource Management [org.eclipse.core.resources 3.23.200.v20251217-0810]
+> Start Team Support Core [org.eclipse.team.core 3.10.1000.v20260112-1030]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.175.202603221810]
+2026-03-28 15:24:47.922 - Initialize base platform...
+2026-03-28 15:24:47.972 - Platform initialized (1872ms)
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.700.v20250622-1644]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.6.0.v20251219-1227]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.800.v20250613-1119]
+2026-03-28 15:24:48.083 - Proxy service 'org.eclipse.core.net.proxy.IProxyService' loaded
+2026-03-28 15:24:48.107 - Create display
+2026-03-28 15:24:49.337 - Starting instance server at http://localhost:56894
+2026-03-28 15:24:49.365 - Run workbench
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.23.0.v20260103-1639]
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.18.0.v20260119-0835]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.300.v20251112-1253]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.600.v20251023-1358]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.5.0.v20251217-1052]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.15.0.v20251216-1230]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.700.v20250916-0927]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.40.0.v20251210-1145]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.15.0.v20251216-1230]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.6.0.v20251216-1230]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.17.0.v20260131-0926]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start DBeaver AI Model [org.jkiss.dbeaver.model.ai 2.0.18.202603221810]
+> Start DBeaver AI UI [org.jkiss.dbeaver.ui.ai 1.0.77.202603221810]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.16.0.v20251216-1230]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.22.0.202602231721]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.25.0.202602162234]
+> Start JFace Text [org.eclipse.jface.text 3.30.0.v20260203-0841]
+> Start Default Text Editor [org.eclipse.ui.editors 3.21.0.v20260218-1452]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.20.0.v20260127-1637]
+2026-03-28 15:24:55.372 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.165.202603221810]
+2026-03-28 15:24:55.846 - Total database drivers: 128 (128)
+> Start Help System Core [org.eclipse.help 3.11.0.v20251227-1159]
+2026-03-28 15:24:56.109 - Create actions
+2026-03-28 15:24:58.051 - Initialize workbench window
+2026-03-28 15:24:58.120 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.175.202603221810]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.175.202603221810]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.212.202603221810]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.172.202603221810]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.16.202603221810]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.16.202603221810]
+2026-03-28 15:25:13.340 - Open [https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/maven-metadata.xml]
+2026-03-28 15:25:28.417 - Connect with 'DBeaver Sample Database (SQLite)' (dbeaver-sample-database-sqlite-1)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.68.202603221810]
+> Start DBeaver Generic Plug-in [org.jkiss.dbeaver.ext.generic 2.3.261.202603221810]
+> Start DBeaver SQLite Model [org.jkiss.dbeaver.ext.sqlite 1.0.224.202603221810]
+2026-03-28 15:25:28.572 - Execution context opened (DBeaver Sample Database (SQLite); Main; 0)
+2026-03-28 15:25:28.986 - Connected (dbeaver-sample-database-sqlite-1, SQLite JDBC [3.51.3.0])
+An exception occurred while writing to the platform log:
+java.io.IOException: Access is denied
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:367)
+	at java.base/sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:309)
+	at java.base/sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:405)
+	at java.base/sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:410)
+	at java.base/sun.nio.cs.StreamEncoder.lockedFlush(StreamEncoder.java:214)
+	at java.base/sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:201)
+	at java.base/java.io.OutputStreamWriter.flush(OutputStreamWriter.java:262)
+	at java.base/java.io.BufferedWriter.implFlush(BufferedWriter.java:372)
+	at java.base/java.io.BufferedWriter.flush(BufferedWriter.java:359)
+	at org.eclipse.osgi.internal.log.EquinoxLogWriter.log(EquinoxLogWriter.java:321)
+	at org.eclipse.osgi.internal.log.EquinoxLogWriter.logged(EquinoxLogWriter.java:776)
+	at org.eclipse.osgi.internal.log.ExtendedLogReaderServiceFactory.safeLogged(ExtendedLogReaderServiceFactory.java:108)
+	at org.eclipse.osgi.internal.log.ExtendedLogReaderServiceFactory.logPrivileged(ExtendedLogReaderServiceFactory.java:259)
+	at org.eclipse.osgi.internal.log.ExtendedLogReaderServiceFactory.log(ExtendedLogReaderServiceFactory.java:229)
+	at org.eclipse.osgi.internal.log.ExtendedLogServiceFactory.log(ExtendedLogServiceFactory.java:124)
+	at org.eclipse.osgi.internal.log.LoggerImpl.log(LoggerImpl.java:93)
+	at org.eclipse.osgi.internal.log.LoggerImpl.log(LoggerImpl.java:84)
+	at org.eclipse.osgi.internal.log.LoggerImpl.log(LoggerImpl.java:79)
+	at org.eclipse.core.internal.runtime.Log.log(Log.java:83)
+	at org.jkiss.dbeaver.Log.writeEclipseLog(Log.java:426)
+	at org.jkiss.dbeaver.Log.writeExceptionStatus(Log.java:415)
+	at org.jkiss.dbeaver.Log.error(Log.java:383)
+	at org.jkiss.dbeaver.model.rcp.DesktopWorkspaceImpl.getResourceDefaultRoot(DesktopWorkspaceImpl.java:203)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getScriptsFolder(SQLEditorUtils.java:110)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:151)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:144)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.execute(SQLEditorHandlerOpenEditor.java:118)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:305)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:237)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:484)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:446)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:471)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:493)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4349)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1217)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3735)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1051)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:684)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:332)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:1038)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:677)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1846)
+Logging to the console instead.
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2026-03-28 15:27:30.187
+!MESSAGE Can not create 'SQL script' root folder 'Scripts'
+!SUBENTRY 1 org.eclipse.core.filesystem 4 269 2026-03-28 15:27:30.187
+!MESSAGE File not found: C:\Users\FATTANI COMPUTERS\OneDrive\Documents\DBMS-SQL\General.
+!STACK 0
+java.nio.file.NoSuchFileException: C:\Users\FATTANI COMPUTERS\OneDrive\Documents\DBMS-SQL\General\Scripts
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:527)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:700)
+	at java.base/java.nio.file.Files.createAndCheckIsDirectory(Files.java:808)
+	at java.base/java.nio.file.Files.createDirectories(Files.java:794)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.mkdir(LocalFile.java:420)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1457)
+	at org.eclipse.core.internal.resources.Folder.internalCreate(Folder.java:184)
+	at org.eclipse.core.internal.resources.Folder.create(Folder.java:115)
+	at org.eclipse.core.internal.resources.Folder.create(Folder.java:129)
+	at org.jkiss.dbeaver.model.rcp.DesktopWorkspaceImpl.getResourceDefaultRoot(DesktopWorkspaceImpl.java:201)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getScriptsFolder(SQLEditorUtils.java:110)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:151)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:144)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.execute(SQLEditorHandlerOpenEditor.java:118)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:305)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:237)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:484)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:446)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:471)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:493)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4349)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1217)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3735)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1051)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:684)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:332)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:1038)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:677)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1846)
+Error saving the workbench model

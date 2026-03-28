@@ -1,0 +1,23 @@
+!SESSION 2026-03-28 15:23:31.407 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Framework arguments:  -eclipse.keyring C:\Users\FATTANI COMPUTERS\AppData\Roaming\DBeaverData\secure\secure_storage
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -eclipse.keyring C:\Users\FATTANI COMPUTERS\AppData\Roaming\DBeaverData\secure\secure_storage
+
+!ENTRY org.eclipse.core.resources 2 10035 2026-03-28 15:23:44.638
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 2 2 2026-03-28 15:24:08.586
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
+!SESSION 2026-03-28 15:24:41.749 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Framework arguments:  -eclipse.keyring C:\Users\FATTANI COMPUTERS\AppData\Roaming\DBeaverData\secure\secure_storage -nosplash
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\FATTANI COMPUTERS\OneDrive\Documents\DBMS-SQL -eclipse.keyring C:\Users\FATTANI COMPUTERS\AppData\Roaming\DBeaverData\secure\secure_storage -nosplash
+
+!ENTRY org.eclipse.ui 2 2 2026-03-28 15:25:01.231
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
